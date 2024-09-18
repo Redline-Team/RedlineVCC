@@ -7,13 +7,17 @@
         "name":"RunaXR@c0dera.in",
         "url":"https://c0dera.in"
     },
-    "description":"Redline Team VCC Repo",
+    "description":"Redline Team VCC Repo\nI also post Refactored Packages here",
     "infoLink":{
         "url":"http://github.com/Redline-Team",
         "text":"View on GitHub"
     },
     "bannerUrl":"Redline.png",
     "githubRepos":[
-        "Redline-Team/RPM"
+        "Redline-Team/RPM",
+        "PhoenixAceVFX/My-Hierarchy-Refactored",
+        "PhoenixAceVFX/VRCSDKPlus-Refactored",
+        "PhoenixAceVFX/BlendTreeBuilder-Refactored",
+        "PhoenixAceVFX/HierarchyPlus-Refactored"
     ]
 }
