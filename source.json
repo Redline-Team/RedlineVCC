@@ -14,10 +14,6 @@
     },
     "bannerUrl":"Redline.png",
     "githubRepos":[
-        "Redline-Team/RPM",
-        "PhoenixAceVFX/My-Hierarchy-Refactored",
-        "PhoenixAceVFX/VRCSDKPlus-Refactored",
-        "PhoenixAceVFX/BlendTreeBuilder-Refactored",
-        "PhoenixAceVFX/HierarchyPlus-Refactored"
+        "Redline-Team/RPM"
     ]
 }
